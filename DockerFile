@@ -1,4 +1,4 @@
-FROM tomcat:10.1.33-alpine
+FROM tomcat:10.1.33
 
 ADD ValCT_Nhom5.war /usr/local/tomcat/webapps/
 
